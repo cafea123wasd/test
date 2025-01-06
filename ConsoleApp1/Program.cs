@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Alina");
+﻿Console.WriteLine("ziua buna!");
